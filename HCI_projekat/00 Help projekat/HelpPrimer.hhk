@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Precision Helper 2.0.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="FrameName" value="right">
+    </OBJECT>
+    <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="pocetak">
+          <param name="Name" value="naslovna strana">
+          <param name="Local" value="htmlhelppocetak.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="indeks">
+          <param name="Name" value="naslovna strana">
+          <param name="Local" value="htmlhelppocetak.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="pregled sadržaja helpa">
+          <param name="Name" value="naslovna strana">
+          <param name="Local" value="htmlhelppocetak.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="sadrzaj">
+          <param name="Name" value="html help sadržaj">
+          <param name="Local" value="htmlhelpsadrzaj.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="indeks">
+          <param name="Name" value="html help indeks">
+          <param name="Local" value="htmlhelpindeks.htm">
+        </OBJECT>
+    </UL>
+</BODY>
+</HTML>

@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Precision Helper 2.0.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="FrameName" value="right">
+      <param name="Window Styles" value="0x00800225">
+      <param name="comment" value="title:HTML Help Primer">
+      <param name="comment" value="base:htmlhelppocetak.htm">
+    </OBJECT>
+    <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Uvod">
+          <param name="Local" value="htmlhelppocetak.htm">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Glavni prozor aplikacije">
+              <param name="Local" value="htmlhelposnovno.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Prikaz tipova">
+              <param name="Local" value="htmlhelpprojekat.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Prikaz vrsta">
+              <param name="Local" value="htmlhelpsadrzaj.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Prikaz etikete">
+              <param name="Local" value="topics\htmlprikazetikete.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Dijalog za unos/izmjenu tipa">
+              <param name="Local" value="htmlhelpindeks.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Dijalog za brisanje tipa">
+              <param name="Local" value="htmlhelpizgled.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Dijalog za unos/izmjenu vrste">
+              <param name="Local" value="htmlhelppretraga.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Dijalog za unos/izmjenu etiketu">
+              <param name="Local" value="htmlhelpstranice.htm">
+            </OBJECT>
+        </UL>
+    </UL>
+</BODY>
+</HTML>

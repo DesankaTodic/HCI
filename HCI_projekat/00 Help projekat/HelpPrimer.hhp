@@ -1,0 +1,75 @@
+[OPTIONS]
+Auto index=Yes
+Compiled file=HelpPrimer.chm
+Default Font=@Arial Unicode MS,8,1
+Default window=main
+Default topic=htmlhelppocetak.htm
+Full-text search=Yes
+Index file=HelpPrimer.hhk
+Language=0x241A Serbian (Latin, Serbia)
+Title=HTML Help Primer
+Contents file=HelpPrimer.hhc
+Error log file=
+Full text search stop list file=
+Binary TOC=No
+Binary Index=Yes
+Create CHI file=No
+Display compile progress=No
+Display compile notes=Yes
+Enhanced decompilation=No
+Flat=No
+Compatibility=1.1 or later
+
+[WINDOWS]
+main=,"HelpPrimer.hhc","HelpPrimer.hhk",,,,,,,0x43520,,0x3066,[271,372,671,672],,,,,,0,0
+
+[FILES]
+arrowdn.gif
+arrowrt.gif
+HelpPrimer.hhc
+HelpPrimer.hhk
+htmlhelpindeks.htm
+htmlhelpizgled.htm
+htmlhelposnovno.htm
+htmlhelppocetak.htm
+htmlhelppretraga.htm
+htmlhelpprojekat.htm
+htmlhelpsadrzaj.htm
+htmlhelpstranice.htm
+htmlindukljucivanje.htm
+htmlsadukljucivanje.htm
+htmlstrukljucivanje.htm
+konteksno.txt
+master.js
+style.css
+tutor.gif
+
+[ALIAS]
+IDH_htmlstrukljucivanje=htmlstrukljucivanje.htm
+IDH_htmlsadukljucivanje=htmlsadukljucivanje.htm
+IDH_htmlindukljucivanje=htmlindukljucivanje.htm
+IDH_htmlhelpstranice=htmlhelpstranice.htm
+IDH_htmlhelpsadrzaj=htmlhelpsadrzaj.htm
+IDH_htmlhelpprojekat=htmlhelpprojekat.htm
+IDH_htmlhelppretraga=htmlhelppretraga.htm
+IDH_htmlhelppocetak=htmlhelppocetak.htm
+IDH_htmlhelposnovno=htmlhelposnovno.htm
+IDH_htmlhelpizgled=htmlhelpizgled.htm
+IDH_htmlhelpindeks=htmlhelpindeks.htm
+
+[MAP]
+#define IDH_htmlstrukljucivanje 11
+#define IDH_htmlsadukljucivanje 10
+#define IDH_htmlindukljucivanje 9
+#define IDH_htmlhelpstranice 8
+#define IDH_htmlhelpsadrzaj 7
+#define IDH_htmlhelpprojekat 1
+#define IDH_htmlhelppretraga 6
+#define IDH_htmlhelppocetak 5
+#define IDH_htmlhelposnovno 4
+#define IDH_htmlhelpizgled 3
+#define IDH_htmlhelpindeks 2
+
+[TEXT POPUPS]
+konteksno.txt
+
